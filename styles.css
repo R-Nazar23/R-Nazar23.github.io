@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', serif;
+    background-color: #1c2331;
+    color: #fff;
+}
+
+.header {
+    text-align: center;
+    padding: 52px 0;
+    background-color: #293846;
+}
+
+.title {
+    font-size: 36px;
+    margin: 0;
+    color: #3498db;
+}
+
+.subtitle {
+    font-family: 'Lato', serif;
+    font-size: 24px;
+    margin: 10px 0;
+    color: #7f8c8d;
+}
+
+.about {
+    padding: 50px 20px;
+    text-align: left;
+}
+
+.about-title {
+    font-size: 28px;
+    color: #3498db;
+    margin-bottom: 20px;
+}
+
+.about-paragraph {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #ccc;
+    margin-top: 20px;
+}
+
+.about-paragraph p {
+    margin-top: 20px;
+}
+
+.contacts {
+    background-color: #333; /* Dark grey background color */
+    padding: 50px 20px;
+    text-align: left;
+}
+
+.contacts-title {
+    font-size: 28px;
+    color: #95a5a6;
+    margin-bottom: 20px;
+}
+
+.contacts-paragraph {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #95a5a6;
+    margin-top: 15px;
+}
+
+.contacts-paragraph a {
+    color: #95a5a6; /* Match the grey color palette */
+    text-decoration: underline; /* Add an underline to indicate a link */
+}
+
+.hero {
+    background-image: url('back2.png'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 150px 0;
+    text-align: center;
+}
+
+.hero1 {
+    background-image: url('back1.png'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 150px 0;
+    text-align: center;
+}
